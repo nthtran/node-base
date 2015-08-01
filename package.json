@@ -1,0 +1,16 @@
+{
+  "name": "node-base",
+  "version": "0.0.1",
+  "description": "Modern Node.js base",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "babel": "^5.8.20"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.0.5",
+    "eslint": "^1.0.0",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "^3.1.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  // apparently `bluebirdCoroutines` has better perf than
+  // `asyncToGenerator` [https://github.com/koajs/koa/issues/415]
+  "optional": ["runtime", "bluebirdCoroutines", "es7.classProperties"],
+  "stage": 1
+}
