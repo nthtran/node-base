@@ -5,7 +5,8 @@
   "main": "index.js",
   "author": "",
   "dependencies": {
-    "babel": "^5.8.20"
+    "babel": "^5.8.20",
+    "babel-runtime": "^5.8.20"
   },
   "devDependencies": {
     "babel-eslint": "^4.0.5",
