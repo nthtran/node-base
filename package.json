@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "description": "Modern Node.js base",
   "main": "lib/index.js",
+  "author": "",
   "scripts": {
     "build": "scripts/build",
     "lint": "scripts/lint",
     "prepublish": "scripts/prepublish"
   },
-  "author": "",
   "dependencies": {
     "babel": "^5.8.20",
     "babel-runtime": "^5.8.20"
